@@ -28,7 +28,7 @@ A premium responsive consultancy business website built using HTML, CSS, and Jav
 ## 📁 Project Structure
 
 ```text
-shravas-website/
+Shravas-Consultancy-Landing-Page/
 │
 ├── index.html
 ├── style.css
@@ -44,7 +44,7 @@ shravas-website/
 
 ## 🚀 Live Demo
 
-https://avinash7007.github.io/shravas-consultancy-landing-page/
+https://avinash7007.github.io/Shravas-Consultancy-Landing-Page/
 
 ---
 
