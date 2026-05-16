@@ -50,4 +50,4 @@ https://avinash7007.github.io/Shravas-Consultancy-Landing-Page/
 
 ## 👨‍💻 Author
 
-**Avinash**
+**Avinash Dubey**
